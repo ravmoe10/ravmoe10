@@ -16,4 +16,4 @@ Jeg har valgt IM fordi jeg interesere meg innenfor koding og liker veldig godt d
 - jeg håper å lære å fikse data og om Nettverk
 ### Link til Gjennestad
 [GjennestadVGS](https://www.gjennestadvgs.no)
-![death_metal_Unicorn] (https://ih1.redbubble.net/image.384346664.9588/raf,750x1000,075,t,FFFFFF:97ab1c12de.u2.jpg)
+![death_metal_Unicorn](https://ih1.redbubble.net/image.384346664.9588/raf,750x1000,075,t,FFFFFF:97ab1c12de.u2.jpg)
