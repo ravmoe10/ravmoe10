@@ -4,9 +4,11 @@ Hei Jeg heter Ravn jeg er 15 år, jeg går på Gjennestad vgs.
 ### Interser
 - Jeg liker å spille gitar 🎸
 - Jeg liker å spille datta spill 🎮
-- jeg liker å gå på tur 🚶
+- Jeg liker å gå på tur 🚶
+- Jeg liker kampsport🥊
+- Jeg likker filmer, min favorit film er Lord of the rings🧙🧝🧝‍♀️
 ### Hvorfor IM
-Jeg har valgt IM fordi jeg interesere meg innenfor koding og liker veldig godt data og det var den eneste linja som var aktuel for min del. 
+Jeg har valgt IM fordi jeg interesere meg innenfor koding og liker veldig godt data og det var den eneste linja som var aktuel for min del, og JEg vil Jobbe med data og koding når jeg blir STOR.
 ### Hva jeg håper å lære
 - jeg håper å lære å kode
 - jeg håper å lære å bli bedre på å ta bilder
