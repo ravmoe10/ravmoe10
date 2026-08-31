@@ -1,6 +1,6 @@
 ## Hello, World
 
-Hei Jeg heter Ravn jeg er 15 år jeg går på Gjennestad vgs.
+Hei Jeg heter Ravn jeg er 15 år, jeg går på Gjennestad vgs.
 ### Interser
 - Jeg liker å spille gitar 🎸
 - Jeg liker å spille datta spill 🎮
@@ -11,3 +11,5 @@ Jeg har valgt IM fordi jeg interesere meg innenfor koding og liker veldig godt d
 - jeg håper å lære å kode
 - jeg håper å lære å bli bedre på å ta bilder
 - jeg håper å lære å fikse data og om Nettverk
+### Link til Gjennestad
+<https://www.gjennestadvgs.no>
