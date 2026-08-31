@@ -14,4 +14,4 @@ Jeg har valgt IM fordi jeg interesere meg innenfor koding og liker veldig godt d
 - jeg håper å lære å bli bedre på å ta bilder
 - jeg håper å lære å fikse data og om Nettverk
 ### Link til Gjennestad
-<https://www.gjennestadvgs.no>
+[GjennestadVGS](https://www.gjennestadvgs.no)
